@@ -1,1 +1,2 @@
-# Research-docker-prototypes
+# Docker prototypes for research
+As a group we did research to find out the best way for importing data in a docker and exporting data out of a docker, because this is needed to import config and data to MT5 and export the results so they can eventually be saved and processed. The research can be found [here](https://github.com/S-A-RB05/.github/blob/main/Research/Docker%20data%20import%20and%20extraction.pdf).
